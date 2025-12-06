@@ -1,0 +1,25 @@
+Token                Lexema              
+----------------------------------------
+KW_SI                si                  
+IDENTIFICADOR        contador            
+ERROR_LEXICO         es_mayor            
+ERROR_LEXICO         Que                 
+IDENTIFICADOR        diez                
+KW_INICIO            inicio              
+KW_MIENTRAS          mientras            
+KW_REPITE            repite              
+KW_IMPRIMIR          imprimir            
+IDENTIFICADOR        saludo              
+KW_HASTA             hasta               
+IDENTIFICADOR        contador            
+KW_FIN               fin                 
+KW_SINO              sino                
+IDENTIFICADOR        var1                
+ERROR_LEXICO         123abc              
+ERROR_LEXICO         hola!               
+ERROR_LEXICO         MAYUSCULA           
+IDENTIFICADOR        prueba2             
+KW_IMPRIMIR          imprimir            
+IDENTIFICADOR        x                   
+IDENTIFICADOR        y                   
+IDENTIFICADOR        z                   

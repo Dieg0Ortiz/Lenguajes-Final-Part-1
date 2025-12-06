@@ -1,0 +1,2 @@
+si contador es_mayor Que diez inicio mientras repite imprimir saludo hasta contador fin
+sino var1 123abc hola! MAYUSCULA prueba2 imprimir x y z

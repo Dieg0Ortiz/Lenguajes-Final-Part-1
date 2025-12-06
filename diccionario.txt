@@ -1,0 +1,8 @@
+si KW_SI
+sino KW_SINO
+mientras KW_MIENTRAS
+repite KW_REPITE
+hasta KW_HASTA
+inicio KW_INICIO
+fin KW_FIN
+imprimir KW_IMPRIMIR
